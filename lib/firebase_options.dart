@@ -64,7 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '939353486689',
     projectId: 'prjpab2-si61-0036',
     storageBucket: 'prjpab2-si61-0036.firebasestorage.app',
-    iosClientId: '939353486689-uc1hb86uevdjkjuv9v8rjdeekslapkan.apps.googleusercontent.com',
+    iosClientId:
+        '939353486689-uc1hb86uevdjkjuv9v8rjdeekslapkan.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterApplicationFasum',
   );
 
@@ -74,7 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '939353486689',
     projectId: 'prjpab2-si61-0036',
     storageBucket: 'prjpab2-si61-0036.firebasestorage.app',
-    iosClientId: '939353486689-uc1hb86uevdjkjuv9v8rjdeekslapkan.apps.googleusercontent.com',
+    iosClientId:
+        '939353486689-uc1hb86uevdjkjuv9v8rjdeekslapkan.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterApplicationFasum',
   );
 
